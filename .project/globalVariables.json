@@ -1,0 +1,10 @@
+[
+  {
+    "Constant": false,
+    "Name": "GlobalMessage",
+    "TypeFullyQualifiedName": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "\"Hello Mr/Ms/Mrs <first_name> <last_name>, we would like to invite you to our product launch event next week. Please confirm by the end of current week.\"",
+    "IsLiteral": false
+  }
+]
